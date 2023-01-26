@@ -3,9 +3,6 @@
   <img src="public/images/logo.png" alt="logo" width="400" height="auto" />
 </div>
 
-## 📌 About The Project
-
-this project is made to help you make professional resumes using well designed templates , after filling your informations you can download your resume or share it through linkedIn or by QR.
 
 ### Built With
 * ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
