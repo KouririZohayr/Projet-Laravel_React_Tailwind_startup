@@ -24,5 +24,10 @@ ReactDOM.createRoot(document.getElementById('app')).render(
    <div >
       <h1>zouhair</h1>
       <h2>kouriri zz</h2>
+      <dir>
+         <table>
+            <table>zzz</table>
+         </table>
+      </dir>
    </div>
 );
